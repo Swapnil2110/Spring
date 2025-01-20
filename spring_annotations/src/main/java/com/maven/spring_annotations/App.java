@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "================== Start of the program ==================" );
-        ApplicationContext factory = new AnnotationConfigApplicationContext(AppConfig.class);
+        ApplicationContext factory = new AnnotationConfigApplicationContext(AppConfig2.class);
         Samsung s7 = factory.getBean(Samsung.class);
         s7.config();
     }
