@@ -10,10 +10,9 @@ A basic example demonstrating Spring's ability to inject dependencies using XML 
 Maven, Spring Core
 
 #### Key Features:
-
-1. Constructor-based dependency injection
-
-2. Setter-based dependency injection
+1. Inversion of Control
+2. Constructor-based dependency injection
+3. Setter-based dependency injection
 
 
 ## 2. Configuration
