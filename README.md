@@ -25,3 +25,14 @@ Maven, Spring Core
 1. XML Based Configuration
 2. Java Based Configuration
 3. Annotation Based Configuration
+
+
+## 3. Aspect Oriented Programming
+An implementation of cross-cutting concerns like logging using Spring AOP.
+
+#### Technologies Used:
+Spring AOP
+
+#### Key Features:
+1. Creation of an aspect for logging
+2. Usage of pointcuts, join points, and advice
